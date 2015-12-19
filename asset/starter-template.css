@@ -1,0 +1,26 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.container{
+	border: 1px solid #f00;
+}
+.container2{
+	border: 1px solid #f00;
+	background: url(http://vacationadvice101.com/wp-content/uploads/2013/06/Oia_Santorini_HDR_sunset.jpg);
+	background-position: center; 
+	height: 40vh;
+}
+.title{
+	border: 1px solid #0f0;
+	display: none;
+}
+h1 {
+	border: 1px solid #0ff;
+}
+p {
+	border: 1px solid #0f0;
+}
